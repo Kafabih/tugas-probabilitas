@@ -69,6 +69,7 @@ Pastikan virtual environment aktif, lalu:
 
 
 pip install -r requirements.txt
+
 🟢 7. Menjalankan Project
 Contoh menjalankan script Python utama:
 python main.py
